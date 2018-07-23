@@ -1,0 +1,6 @@
+echo '============================'
+echo 'Running install_dependencies'
+echo '============================'
+
+cd /var/www/aws-exercise-a
+npm install
